@@ -11,6 +11,7 @@ div {
   margin: auto;
   font-family:Helvetica Neue;
   padding: 30px
+  background-color:white;
 }
 
 /* ID selector to select the element with id 'main-header' */
